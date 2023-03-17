@@ -3,7 +3,7 @@
  *   use netfilter.
  *
  *
- *    author: db dubin@knet.cn
+ *    author: xxxx
  *    date: 2014-06-09
  *
  */
