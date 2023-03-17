@@ -2,7 +2,7 @@
  *   In nic promisc mode, we recv pkt and forward to application layer.
  *    Use socket.
  *
- *    author: db dubin@knet.cn
+ *    author: xxxx
  *    date: 2014-06-09
  *
  */
